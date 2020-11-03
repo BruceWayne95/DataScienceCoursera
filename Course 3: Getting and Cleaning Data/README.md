@@ -1,10 +1,4 @@
----
-title: "README"
-author: "Aniruddha Shinde"
-date: "3 November 2020"
-output: md_document:
-    variant: markdown_github
----
+
 
 
 The CodeBook.md file gives a description about the variables in the tidy data set.
