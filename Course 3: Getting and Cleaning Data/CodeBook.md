@@ -1,10 +1,4 @@
----
-title: "CodeBook"
-author: "Aniruddha Shinde"
-date: "3 November 2020"
-output: md_document:
-    variant: markdown_github
----
+
 
 Using run_analysis.R, messy UCI dataset will be converted into a tidy data set.
 
