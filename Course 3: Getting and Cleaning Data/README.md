@@ -3,6 +3,8 @@
 
 The CodeBook.md file gives a description about the variables in the tidy data set.
 
+Using this link you can download the messy original data. It has all the files and instructions about it. https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 Using run-analysis.R, messy UCI data will be converted into a tidy data set.
 
 Following are the steps that I followed to convert messy data into tidy data:
